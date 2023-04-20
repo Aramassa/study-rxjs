@@ -5,7 +5,7 @@ Study RxJS
 
 ```sh
 npm init -y
-npm --save rxjs
+npm install --save rxjs
 ```
 
 package.json に `"type": "module"` を足さないとエラーになるls
